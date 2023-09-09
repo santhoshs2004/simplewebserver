@@ -19,6 +19,9 @@ Testing the webserver
 
 ## OUTPUT:
 
+![out](https://github.com/santhoshs2004/simplewebserver/assets/129157717/93c6d286-fe2e-4aee-ad02-953c8c66d476)
+
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
