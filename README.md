@@ -15,7 +15,24 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>My webserver</title>
+</head>
+<body>
+<h1>Welcome<h1>
+<ul>
+    <li>Apple</li
+    <li>Walmart</li
+    <li>procart</li
+    <li>Amazon</li>
+    <li>Microsoft</li
+</ul
+</body>
+</html>
+```
 
 ## OUTPUT:
 
