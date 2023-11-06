@@ -15,28 +15,10 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```
-<!DOCTYPE html>
-<html>
-<head>
-<title>My webserver</title>
-</head>
-<body>
-<h1>Top Five Revenue Companies<h1>
-<ul>
-    <li>Apple</li
-    <li>Walmart</li
-    <li>procart</li
-    <li>Amazon</li>
-    <li>Microsoft</li
-</ul
-</body>
-</html>
-```
+
 
 ## OUTPUT:
 
-![out](https://github.com/santhoshs2004/simplewebserver/assets/129157717/93c6d286-fe2e-4aee-ad02-953c8c66d476)
 
 
 
