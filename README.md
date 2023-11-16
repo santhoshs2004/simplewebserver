@@ -1,5 +1,5 @@
 # Developing a Simple Webserver
-## Date: 06.11.2023
+## Date: 
 
 ## AIM:
 To develop a simple webserver to serve html pages.
